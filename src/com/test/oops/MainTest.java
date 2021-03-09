@@ -12,8 +12,10 @@ public class MainTest {
 			
 			System.out.println("******");
 			
-			
 			TestB b=new TestB();
+			TestB b1=new TestB();
+			TestB dd=new TestB();
+			TestB bbb=new TestB();
 			b.A();
 			b.B();
 			b.c();
